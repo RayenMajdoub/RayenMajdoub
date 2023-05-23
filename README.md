@@ -10,6 +10,8 @@
 - 📄 Resume Link [https://drive.google.com/file/d/1MOl8xnK6xfbISl8YhHKwdvqytqT5Fsph/view?usp=share_link](https://drive.google.com/file/d/1MOl8xnK6xfbISl8YhHKwdvqytqT5Fsph/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
+<a href="https://www.linkedin.com/in/majdoubrayen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iheb-jeridi" height="30" width="40" /></a>
+
 <p align="left">
 </p>
 
