@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rayen Majdoub</h1>
-<h3 align="center">Second year computer engineering student at ESPRIT, passionate about technology and development.</h3>
+<h3 align="center">Third year computer engineering student at ESPRIT, passionate about technology and development.</h3>
  <p align="center">
   <img src="https://github.com/RayenMajdoub/RayenMajdoub/assets/109281682/0aafc88e-dafb-4925-a566-18eb8866416e" width="10%">
 </p>
